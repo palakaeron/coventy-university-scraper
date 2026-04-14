@@ -1,6 +1,5 @@
 .env
 __pycache__/
 *.log
-coventry_courses.json
 .vscode/
 venv/
